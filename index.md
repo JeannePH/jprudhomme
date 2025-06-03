@@ -12,6 +12,12 @@
 ## Développeuse | En recherche d’alternance
 **Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après un parcours riche en danse contemporaine.**
 
+<p align="center">
+  <a href="CV_Jeanne_PRUDHOMME.pdf" download>
+    <button>Download CV</button>
+  </a>
+</p>
+
 ---
 
 ## Compétences
