@@ -57,7 +57,7 @@
 
 ## Formations
 
-### Développement Full-Stack - Java et Angular – OPENCLASSROOM  (en alternance)
+### Développement Full-Stack - Java et Angular – OPENCLASSROOM  (en alternance - à venir)
 **Oct 2025 - Oct 2026**
 
 - Rythme : 1 jour / semaine en formation
@@ -139,25 +139,3 @@ Projet principal : **KALI** (audit d'applications nocode/lowcode type WeWeb, Xan
 - Cours enfants & adultes  
 - Interprétation chorégraphique  
 - Préparation physique
-
----
-
-## 📖 Formation Alternance à venir
-
-### Développeuse Full-Stack Java & Angular – **OpenClassroom**  
-**Oct 2025 - Oct 2026**
-
-- Audit de fonctionnalités & architecture
-- Conception logicielle & sécurité
-- Tests automatiques front/back
-- Intégration API
-- CI/CD & qualité logicielle
-
-**Technologies :** Java, Angular 14, Spring, API REST, SQL, PostgreSQL, GitHub  
-**Rythme :** 1 jour/semaine en formation
-
----
-
-## 🔗 Liens utiles
-
-- [Formation CEFIM – Développeur d'applications](https://www.cefim.eu/formations/formation-concepteur-developpeur-dapplications/)
