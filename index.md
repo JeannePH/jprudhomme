@@ -1,7 +1,7 @@
 # JEANNE PRUD’HOMME
 
 <p align="align-left">
-  <img src="qrcode_jeanne.jpg" alt="QR code de cette page" width=60">
+  <img src="qrcode_jeanne.jpg" alt="QR code de cette page" width="60">
 </p>
 
 📞 06 30 34 59 10  
