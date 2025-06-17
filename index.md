@@ -10,7 +10,7 @@
 ---
 
 ## Développeuse | En recherche d’alternance
-**Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après un parcours riche en danse contemporaine.**
+**Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après un parcours riche en danse contemporaine.** [(À propos de moi)](aboutme.md)
 
 <p align="center">
   <a href="CV_Jeanne_PRUDHOMME.pdf" download>
@@ -90,7 +90,6 @@
   - Développement de la base de donnée sur supabase
 - [Formation CEFIM – Développeur d'applications](https://www.cefim.eu/formations/formation-concepteur-developpeur-dapplications/)
 
----
 
 ### Développement web – CEFIM (en alternance)
 **Sept 2023 - Sept 2024**
@@ -98,7 +97,6 @@
 - HTML, CSS, JavaScript (React), accessibilité, POO
 - Projet : mockup de Twitter (Front en React + API)
 
----
 
 ### Développement nocode – ALEGRIA ACADEMY  (en alternance)
 **Juil 2022 - Juil 2023**
@@ -106,7 +104,6 @@
 - Outils : WeWeb, Xano, Bubble
 - CSS & HTML, base de données
 
----
 
 ### Initiation nocode – Les Descodeuses, Contournement, Ottho  
 **Fév & Mars 2022**
@@ -130,8 +127,6 @@ Projet principal : **KALI** (audit d'applications nocode/lowcode type WeWeb, Xan
 - Intégration de maquettes Figma sur WeWeb  
 - Développement d’API sur Xano  
 - Méthodologie agile (Jira, Coda)
-
----
 
 ### Danseuse & Enseignante en danse contemporaine  
 **2014 - 2022**
