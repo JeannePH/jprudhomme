@@ -1,5 +1,9 @@
 # JEANNE PRUD’HOMME
 
+<p align="align-left">
+  <img src="qrcode_jeanne.jpg" alt="QR code de cette page" width=60">
+</p>
+
 📞 06 30 34 59 10  
 📧 jeanne.prudhomme@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeanne-prudhomme/)  
