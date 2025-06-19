@@ -13,7 +13,7 @@
 
 ---
 
-## Développeuse | En recherche d’alternance
+## Développeuse et Conceptrice d'Application
 **Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après un parcours riche en danse contemporaine.** [→ à propos](aboutme.md)
 
 <p align="center">
@@ -24,117 +24,124 @@
 
 ---
 
-## Compétences
+## Diplômes et Formations
 
-### Back-End
-- Java (Spring)
-- PHP (Symfony)
-- Python
+- **Développement Full-Stack - Java et Angular** – [OpenClassroom](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular) *(oct 2025 – oct 2026)*  
+  "Expert en développement logiciel" RNCP36912 – Niveau 7
 
-### Front-End
-- HTML, CSS
-- JavaScript (React, Vue)
+- **Conception Développement d’Application** – CEFIM *(oct 2024 – oct 2025)*  
+  RNCP37873 – Niveau 6
 
-### Nocode/Lowcode Front
-- Weweb, Flutterflow, Webflow
+- **Développement Web et Web Mobile** – CEFIM *(sept 2023 – sept 2024)*  
+  RNCP37674 – Niveau 5
 
-### Nocode/Lowcode Back
-- Xano, Supabase
+- **Développement Nocode/Lowcode** – Alegria Academy *(juillet 2022 – juillet 2023)*
 
-### IDE
-- Suite IntelliJ, VSCode, Spring Tool Suite
+- **Initiation au Nocode** – Les Descodeuses, Contournement, Ottho *(février – mars 2022)*
 
-### Outils & Versionning
-- JIRA
-- GitHub, Gitlab CI/CD
-- Postman
-- PHPMyAdmin, PgAdmin
-
-### Soft Skills
-- Autonomie
-- Adaptabilité
-- Entraide
-- Esprit d’équipe
-- Curiosité
+- **Diplôme d’État de professeur de danse contemporaine** – RIDC *(2014)*
 
 ---
 
-## Formations
+## Atouts
 
-### Développement Full-Stack - Java et Angular – OPENCLASSROOM  (en alternance - à venir)
-**Oct 2025 - Oct 2026**
-
-- Rythme : 1 jour / semaine en formation
-- Programme :
-  - Réaliser un audit des fonctionnalités et de l’architecture d’une application existante. 
-  - Anticiper les coûts et risques potentiels d’un projet. 
-  - Concevoir l’architecture et les composants logiciels d’une application dans le respect de la législation. 
-  - Créer des plans de test, de sécurité et de sauvegarde des données. 
-  - Valider une solution technique avec les parties prenantes. 
-  - Intégrer le front-end et le back-end d'un programme en utilisant une API. 
-  - Rédiger des tests automatiques pour le code en front-end et en back-end. 
-  - Garantir un produit de qualité en automatisant la compilation et les tests grâce à l’intégration et la livraison continues. 
-- Technologies & Langages : Java, Angular 14, Spring, API REST, SQL, PostGreSQL, GitHub.
-- [Formation OPENCLASSROOM – Développeur Full-Stack - Java et Angular](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular)
-
-
-### Conception développement d’application – CEFIM  (en alternance)
-**Oct 2024 - Oct 2025**
-
-- Gestion de projet : concevoir et planifier
-- Base de données : structuration conception requêtage sécurité
-- AVA SPRING
-- Culture devops (CI/CD Docker)
-- Projet fil rouge en équipe de 3 :
-- Création d’un site de gestion de voyage :
-  - Etude du cahier des charges (Diagramme de séquence, d’activité)
-  - Etude de la structuration de la BDD (MLD, MCD, MPD)
-  - Initialisation du projet
-  - Développement du backend en java spring
-  - Développement de la base de donnée sur supabase
-- [Formation CEFIM – Développeur d'applications](https://www.cefim.eu/formations/formation-concepteur-developpeur-dapplications/)
-
-
-### Développement web – CEFIM (en alternance)
-**Sept 2023 - Sept 2024**
-
-- HTML, CSS, JavaScript (React), accessibilité, POO
-- Projet : mockup de Twitter (Front en React + API)
-
-
-### Développement nocode – ALEGRIA ACADEMY  (en alternance)
-**Juil 2022 - Juil 2023**
-
-- Outils : WeWeb, Xano, Bubble
-- CSS & HTML, base de données
-
-
-### Initiation nocode – Les Descodeuses, Contournement, Ottho  
-**Fév & Mars 2022**
-
-- Outils : Airtable, Softr, Glide, Dorik
-- Projet : Marketplace avec Bubble
+Autonomie – Adaptabilité – Bienveillance – Esprit d’équipe – Curiosité – Bon relationnel
 
 ---
 
-## Expériences
+## Expériences professionnelles
 
-### Développeuse & conceptrice web - **EZACAE** (Alternance)  
-**Juil 2022 - Oct 2025**
+### Développeuse & conceptrice d’application – **EZACAE** *(juillet 2022 – octobre 2025)*  
 
-Projet principal : **KALI** (audit d'applications nocode/lowcode type WeWeb, Xano, PowerApps)  
-- Analyse de code généré par WeWeb  
-- Définition des règles de bonnes pratiques  
-- Rédaction des plans de test  
-- Conception de BDD  
-- Mise en conformité accessibilité  
-- Intégration de maquettes Figma sur WeWeb  
-- Développement d’API sur Xano  
-- Méthodologie agile (Jira, Coda)
+### Danseuse & Enseignante en Danse Contemporaine *(2014 - 2022)*
 
-### Danseuse & Enseignante en danse contemporaine  
-**2014 - 2022**
+---
 
-- Cours enfants & adultes  
-- Interprétation chorégraphique  
-- Préparation physique
+## Projets d’entreprise
+
+### KALI
+- **Projet** : Outil d’audit du code généré par des outils nocode/lowcode (WeWeb, Xano, PowerApps), inspiré de SonarQube.
+
+#### Itération 1 – POC
+- **Équipe** : Solo
+- **Technos** : Python, API Coda, Gitlab CI/CD, Docker
+- **Tâches** : extraction de données WeWeb, script Python, pipeline GitLab
+
+#### Itération 2 – MVP
+- **Équipe** : Binôme
+- **Technos** : WeWeb, Supabase
+- **Tâches** : développement interface, injection CSS/JS, connexion API Supabase
+
+#### Itération 3 – Commercialisation
+- **Équipe** : 3 personnes
+- **Technos** : WeWeb, Xano
+- **Tâches** : base de données, bonnes pratiques, accessibilité, intégration figma, front custom, API Xano, méthode agile
+
+### LE PAON *(2022–2023 – EZACAE)*
+- **Projet** : Plateforme de cours artistiques en ligne
+- **Équipe** : Binôme
+- **Technos** : Bubble
+- **Tâches** : CRUD admin, bannières dynamiques, front responsive, branchement API
+
+### FEAMZY *(2022–2023 – EZACAE)*
+- **Projet** : Plateforme de discussion alternative à WhatsApp
+- **Équipe** : En équipe
+- **Technos** : Bubble
+- **Tâches** : front dynamique et responsive
+
+---
+
+## Projets de formation
+
+### Site de gestion de voyage entre amis *(2025 – CEFIM)*
+- **Équipe** : 3 personnes
+- **Technos** : Java (Spring), Supabase, Figma, Miro, Draw.io
+- **Tâches** : diagrammes, BDD, méthodo, backend Java, base Supabase
+
+### Mockup de Twitter *(2024 – CEFIM)*
+- **Équipe** : Solo
+- **Technos** : HTML, CSS, JavaScript (React)
+- **Tâches** : interface React, connexion API
+
+### Marketplace *(2022 – Ottho)*
+- **Équipe** : Solo
+- **Technos** : Bubble
+- **Tâches** : UI Bubble, BDD, workflows
+
+### Système de recrutement – Contournement *(2022)*
+- **Équipe** : 3 personnes
+- **Technos** : Airtable, SoftR, Notion
+- **Tâches** : base Airtable, front SoftR, liaison front/back
+
+### App de gestion de coloc – Contournement *(2022)*
+- **Équipe** : Solo
+- **Technos** : Airtable, SoftR
+- **Tâches** : annonces, favoris, CRUD
+
+---
+
+## Projets personnels
+
+### KALI Vue.js *(2024 – Perso)*
+- **Équipe** : Solo
+- **Technos** : Vue.js, Supabase, IntelliJ
+- **Tâches** : composants Vue, routes, auth Supabase
+
+### Mockup Twitter (WeWeb) *(2024 – Perso)*
+- **Technos** : WeWeb, Supabase
+- **Tâches** : CRUD, auth, BDD Supabase
+
+### Yourte Location *(2022)*
+- **Équipe** : Solo
+- **Technos** : Bubble
+- **Tâches** : relation client, cahier des charges, BDD Miro, espace public et admin
+
+### Gestion matériel artisan *(2022)*
+- **Équipe** : Solo
+- **Technos** : Airtable
+- **Tâches** : BDD, vues filtrées, automatisation, interface
+
+### Application de recettes *(2022–2025)*
+- **Équipe** : Solo
+- **Technos** : SoftR / Airtable, puis WeWeb / Xano, puis WeWeb / Supabase
+- **Tâches** : développement, migration, CRUD, API, formulaires
