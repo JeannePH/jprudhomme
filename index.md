@@ -4,8 +4,8 @@
   <img src="qrcode_jeanne.jpg" alt="QR code de cette page" width="60">
 </p>
 
-📞 06 30 34 59 10  
-📧 jeanne.prudhomme@gmail.com  
+📞 [06 30 34 59 10](tel:+33630345910)  
+📧 [jeanne.prudhomme@gmail.com](mailto:jeanne.prudhomme@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeanne-prudhomme/)  
 📍 Tours  
 🚘 Permis B / Véhicule  
@@ -43,7 +43,7 @@
 
 ---
 
-## Atouts
+## Soft Skills
 
 Autonomie – Adaptabilité – Bienveillance – Esprit d’équipe – Curiosité – Bon relationnel
 
