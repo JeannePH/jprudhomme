@@ -1,9 +1,5 @@
-# JEANNE PRUD’HOMME
-
-<p align="align-left">
-  <img src="qrcode_jeanne.jpg" alt="QR code de cette page" width="60">
-</p>
-
+# JEANNE PRUD’HOMME  
+  
 📞 [06 30 34 59 10](tel:+33630345910)  
 📧 [jeanne.prudhomme@gmail.com](mailto:jeanne.prudhomme@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeanne-prudhomme/)  
@@ -95,7 +91,7 @@ Autonomie – Adaptabilité – Bienveillance – Esprit d’équipe – Curiosi
 
 ### Site de gestion de voyage entre amis *(2025 – CEFIM)*
 - **Équipe** : 3 personnes
-- **Technos** : Java (Spring), Supabase, Figma, Miro, Draw.io
+- **Technos** : Java 17 (Spring 21), Supabase, Figma, Miro, Draw.io
 - **Tâches** : diagrammes, BDD, méthodo, backend Java, base Supabase
 
 ### Mockup de Twitter *(2024 – CEFIM)*
