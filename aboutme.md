@@ -3,7 +3,7 @@
 # Mon objectif aujourd’hui
 
 
-Je recherche une **entreprise pour m'accueillir pour 12 mois**. Le temps d'une formation avec [openclassroom](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular#path_diploma) pour me spécialiser sur la stack **Java / Angular** qui est très présente dans la région où je réside, à **Tours, en Indre-et-Loire**.
+Je recherche une **entreprise pour m'accueillir pour 12 mois**. Le temps d'une formation avec [openclassroom](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular#path_diploma) pour me spécialiser sur la stack **Java / Angular**.
 
 Je vais quitter une entreprise qui m’a fait confiance pendant 3 ans, qui m’a accompagné en alternance durant toute ma reconversion.
 
