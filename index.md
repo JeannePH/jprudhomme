@@ -10,7 +10,7 @@
 ---
 
 ## Développeuse et Conceptrice d'Application
-**Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après un parcours riche en danse contemporaine.** [→ à propos](aboutme.md)
+**Développeuse enthousiaste en reconversion, je passe du nocode au développement web traditionnel, après une première vie dans la danse contemporaine.** [→ à propos](aboutme.md)
 
 <p align="center">
   <a href="CV_Jeanne_PRUDHOMME.pdf" download>
