@@ -6,7 +6,7 @@
   </a>
 </p>  
   
-📞 [06 30 34 59 10](tel:+33630345910)  
+📞 [+33630345910](tel:+33630345910)  
 📧 [jeanne.prudhomme@gmail.com](mailto:jeanne.prudhomme@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeanne-prudhomme/)  
 📍 Tours  
