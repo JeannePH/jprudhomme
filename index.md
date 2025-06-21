@@ -45,6 +45,33 @@ Autonomie – Adaptabilité – Bienveillance – Esprit d’équipe – Curiosi
 
 ---
 
+## Compétences techniques
+
+### Développement traditionnel
+- **Langages** : Java, Spring, JavaScript (React, Vue.js), HTML, CSS, Python  
+- **Base de données** : PostgreSQL, MySQL, SQL  
+- **Architecture** : MVC, couche service/repository  
+- **API** : création et consommation d'API REST  
+- **Outils** : Git, GitHub/GitLab, Postman, IntelliJ, VS Code, SpringToolSuite  
+
+### Déploiement & DevOps
+- **CI/CD** : GitLab CI, intégration continue  
+- **Conteneurisation** : Docker  
+- **Tests** : Postman, rédaction de plans de tests  
+
+### Outils Nocode
+- **Front** :  
+  - *WeWeb* : outil de développement front-end visuel permettant de créer des interfaces web responsives et dynamiques, avec possibilité d’intégrer du code personnalisé (JS/CSS) et de consommer des APIs externes.  
+  - *Bubble* : outil de développement visuel permettant de gérer à la fois la logique front et back, avec base de données intégrée.  
+- **Back / BDD** :  
+  - *Supabase* : plateforme open-source combinant base PostgreSQL, authentification, API générée automatiquement et stockage de données.  
+  - *Xano* : backend no-code pour créer des bases de données relationnelles et des APIs REST sécurisées.  
+  - *Airtable* : base de données relationnelle avec interface visuelle, vues filtrées, formulaires et automatisations.  
+- **Intégration** :  
+  - *SoftR* : outil de développement visuel pour créer des interfaces web (landing page, formulaire, affichage de données) connectées à des bases de données comme Airtable.
+
+---
+
 ## Expériences professionnelles
 
 ### Développeuse & conceptrice d’application – **EZACAE** *(juillet 2022 – octobre 2025)*  
