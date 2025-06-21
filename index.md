@@ -1,7 +1,7 @@
 # JEANNE PRUD’HOMME  
 
 <p align="left">
-  <a href="assets/files/jeanne-prudhomme.vcf" download>
+  <a href="jeanne-prudhomme.vcf" download>
     <button>➕ Ajouter à mes contacts</button>
   </a>
 </p>  
